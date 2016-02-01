@@ -21,13 +21,14 @@ deliverables with deadlines. You may find that the timeline needs adjustment
 during the course of the year, which may be fine. Check in with me if that\u2019s
 the case. 
 
-| Date          | Deliverable                                      |
-| ------------- | -------------                                    |
-| February 26   | Feature list, learned how to use android studio  |
-| April 1       | have app "skeleton" done                         |
-| April 29      |  |
+| Date          | Deliverable                                    				    |
+| ------------- | -------------                                   					|
+| February 26   | Feature list, learned how to use android studio  					|
+| April 1       | Have app "skeleton" done                         					|
+| April 29      | Have app fully ready, minor things such as asthetics still needed |
 
 ## Reality Check
+Should Au-Si Industries decide to put it on the app store we will need $25 to do so.  We plan to make this money by telling our parents we need it for school.
 I am looking for moonshots here, but even moonshots need budgets. What
 equipment are you going to need? What other capital expenditures do you
 anticipate, and how will you meet them?
