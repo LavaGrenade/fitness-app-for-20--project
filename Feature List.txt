@@ -1,0 +1,75 @@
+ 20% Project App
+Exercise List:
+Abs
+Push-Ups
+Wide Armed
+Regular
+Planks
+Forearm
+Hands
+Side
+Crunches
+Sit-Ups
+LaZBoy
+Supermans
+Russian Twists
+Bicycles
+Flutter Kicks
+Triceps
+Tricep Dips
+Burpees
+Push-Ups
+Triceps
+Diamond
+Biceps
+Burpees
+Gluteus Muscles
+Burpees
+Lunges
+Jumping Jacks
+Squats
+Prison
+X
+1 Leg
+Wide Leg
+jump
+Burn Calories(in general)
+Everything
+Quads
+Wall Sit
+Step Ups
+Burpees
+Jumping Jacks
+Lunges
+Shoulders
+Windmills
+Seal Jack
+Pectorals
+Burpees
+Calves
+Wall Sit
+Step Ups
+Jumping Jacks
+Calf Raises
+High Knees
+Jump Knee Tucks
+Back
+Jumping Jacks
+Seal Jacks
+Scissor Jacks
+Russian Twists
+Superman
+Advanced Reach
+Hyper Extensions
+App features:
+Time range
+exclude certain times/time ranges
+Time is choosable to a certain extent
+muscle group selectability	
+able to choose what muscle groups to focus on
+duration
+able to choose duration of workouts from a minimum of 30 seconds to a maximum of 3 minutes
+frequency
+able to choose the maximum amount of times per day alarm goes off
+
+
