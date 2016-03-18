@@ -24,7 +24,7 @@ the case.
 | Date          | Deliverable                                    				    |
 | ------------- | -------------                                   					|
 | February 26   | Feature list, learned how to use android studio  					|
-| April 1       | Have app "skeleton" done                         					|
+| April 1       | Have app UI done                         					|
 | April 29      | Have app fully ready, minor things such as asthetics still needed |
 
 ## Reality Check
