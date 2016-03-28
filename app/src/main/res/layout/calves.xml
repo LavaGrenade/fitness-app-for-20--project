@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#651FFF">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back"
+        android:background="#76FF03"
+        android:layout_margin="8dp"
+        android:id="@+id/backButton"
+        android:onClick=""/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Calves"
+        android:textSize="24dp"
+        android:id="@+id/calvesPage"
+        android:layout_toRightOf="@id/backButton"
+        android:paddingTop="16dp"/>
+    <Button
+        android:id="@+id/wallSits"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/backButton"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:paddingTop="13dp"
+        android:text="Wall Sit"
+        android:textSize="16dp"
+        android:gravity="left"
+        android:onClick=""/>
+    <Button
+        android:id="@+id/stepUps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/wallSits"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:paddingTop="13dp"
+        android:text="Step Ups"
+        android:textSize="16dp"
+        android:gravity="left"
+        android:onClick=""/>
+    <Button
+        android:id="@+id/jumpingJacks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/stepUps"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:paddingTop="13dp"
+        android:text="Jumping Jacks"
+        android:textSize="16dp"
+        android:gravity="left"
+        android:onClick=""/>
+    <Button
+        android:id="@+id/calfRaises"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/jumpingJacks"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:paddingTop="13dp"
+        android:text="Calf Raises"
+        android:textSize="16dp"
+        android:gravity="left"
+        android:onClick=""/>
+    <Button
+        android:id="@+id/highKnees"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/calfRaises"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:paddingTop="13dp"
+        android:text="High Knees"
+        android:textSize="16dp"
+        android:gravity="left"
+        android:onClick=""/>
+    <Button
+        android:id="@+id/jumpKneeTucks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/highKnees"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:paddingTop="13dp"
+        android:text="Jump Knee Tucks"
+        android:textSize="16dp"
+        android:gravity="left"
+        android:onClick=""/>
+</RelativeLayout>

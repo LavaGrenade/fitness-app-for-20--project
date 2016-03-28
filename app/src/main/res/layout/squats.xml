@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#651FFF">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Back"
+        android:background="#76FF03"
+        android:layout_margin="8dp"
+        android:id="@+id/backButton"
+        android:onClick=""/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Squats"
+        android:textSize="24dp"
+        android:id="@+id/squatsPage"
+        android:layout_toRightOf="@id/backButton"
+        android:paddingTop="16dp"/>
+    <Button
+        android:id="@+id/prisonSquats"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/backButton"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:paddingTop="13dp"
+        android:text="Prison Squats"
+        android:textSize="16dp"
+        android:gravity="left"
+        android:onClick=""/>
+    <Button
+        android:id="@+id/xSquats"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/prisonSquats"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:paddingTop="13dp"
+        android:text="X Squats"
+        android:textSize="16dp"
+        android:gravity="left"
+        android:onClick=""/>
+    <Button
+        android:id="@+id/oneLeggedSquats"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/xSquats"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:paddingTop="13dp"
+        android:text="One Legged Squats"
+        android:textSize="16dp"
+        android:gravity="left"
+        android:onClick=""/>
+    <Button
+        android:id="@+id/wideLeggedSquats"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/oneLeggedSquats"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:paddingTop="13dp"
+        android:text="Wide Legged Squats"
+        android:textSize="16dp"
+        android:gravity="left"
+        android:onClick=""/>
+    <Button
+        android:id="@+id/jumpSquats"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/wideLeggedSquats"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:paddingTop="13dp"
+        android:text="Jump Squats"
+        android:textSize="16dp"
+        android:gravity="left"
+        android:onClick=""/>
+</RelativeLayout>
