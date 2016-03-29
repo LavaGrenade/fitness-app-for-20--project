@@ -59,6 +59,10 @@
         <activity
             android:name="flutterkicks.xml.flutterkicks"
             android:label="@string/title_activity_flutterkicks"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="gluteusmuscles.xml.gluteusmuscles"
+            android:label="@string/title_activity_gluteusmuscles"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
