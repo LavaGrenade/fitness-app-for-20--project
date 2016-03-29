@@ -51,6 +51,10 @@
         <activity
             android:name="crunches.xml.crunches"
             android:label="@string/title_activity_crunches"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="diamondpushups.xml.diamondpushups"
+            android:label="@string/title_activity_diamondpushups"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
