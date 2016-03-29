@@ -47,6 +47,10 @@
         <activity
             android:name="calves.xml.calves"
             android:label="@string/title_activity_calves"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="crunches.xml.crunches"
+            android:label="@string/title_activity_crunches"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
