@@ -63,6 +63,14 @@
         <activity
             android:name="gluteusmuscles.xml.gluteusmuscles"
             android:label="@string/title_activity_gluteusmuscles"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="highknees.xml.highknees"
+            android:label="@string/title_activity_highknees"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="hyperextensions.xml.hyperextensions"
+            android:label="@string/title_activity_hyperextensions"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

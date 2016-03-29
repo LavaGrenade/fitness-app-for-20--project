@@ -13,4 +13,6 @@
     <string name="title_activity_diamondpushups">diamondpushups</string>
     <string name="title_activity_flutterkicks">flutterkicks</string>
     <string name="title_activity_gluteusmuscles">gluteusmuscles</string>
+    <string name="title_activity_highknees">highknees</string>
+    <string name="title_activity_hyperextensions">hyperextensions</string>
 </resources>
