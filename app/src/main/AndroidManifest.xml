@@ -35,6 +35,10 @@
         <activity
             android:name="bicycles.xml.bicycles"
             android:label="@string/title_activity_bicycles"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="burpees.xml.burpees"
+            android:label="@string/title_activity_burpees"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
