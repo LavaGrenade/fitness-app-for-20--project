@@ -3,4 +3,6 @@
     <string name="title_activity_xsquats">xsquats</string>
     <string name="title_activity_abdominals">abdominals</string>
     <string name="title_activity_advancedreach">advancedreach</string>
+    <string name="title_activity_back">back</string>
+    <string name="title_activity_biceps">biceps</string>
 </resources>

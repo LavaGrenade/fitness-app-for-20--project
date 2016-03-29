@@ -24,6 +24,14 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="tylersand.workoutapp.MainScreen" />
         </activity>
+        <activity
+            android:name="back.xml.back"
+            android:label="@string/title_activity_back"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="biceps.xml.biceps"
+            android:label="@string/title_activity_biceps"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
