@@ -15,6 +15,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="abdominals.xml.abdominals"
+            android:label="@string/title_activity_abdominals"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="advancedreach.xml.advancedreach"
+            android:label="@string/title_activity_advancedreach"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Workout App</string>
+    <string name="title_activity_abdominals">abdominals</string>
+    <string name="title_activity_advancedreach">advancedreach</string>
 </resources>
