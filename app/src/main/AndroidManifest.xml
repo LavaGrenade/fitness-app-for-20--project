@@ -15,6 +15,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="xsquats.xml.xsquats"
+            android:label="@string/title_activity_xsquats"
+            android:parentActivityName=".MainScreen"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="tylersand.workoutapp.MainScreen" />
+        </activity>
     </application>
 
 </manifest>
