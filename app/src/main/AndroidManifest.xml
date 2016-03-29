@@ -39,6 +39,10 @@
         <activity
             android:name="burpees.xml.burpees"
             android:label="@string/title_activity_burpees"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="calfraises.xml.calfraises"
+            android:label="@string/title_activity_calfraises"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
