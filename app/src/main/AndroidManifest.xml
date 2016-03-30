@@ -155,6 +155,10 @@
         <activity
             android:name="times.xml.times"
             android:label="@string/title_activity_times"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="tricepdips.xml.tricepdips"
+            android:label="@string/title_activity_tricepdips"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
