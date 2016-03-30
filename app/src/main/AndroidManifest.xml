@@ -167,6 +167,10 @@
         <activity
             android:name="triceps.xml.triceps"
             android:label="@string/title_activity_triceps"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="wallsits.xml.wallsits"
+            android:label="@string/title_activity_wallsits"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
