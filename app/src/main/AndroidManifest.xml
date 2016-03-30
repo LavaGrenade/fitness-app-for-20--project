@@ -123,6 +123,10 @@
         <activity
             android:name="russiantwists.xml.russiantwists"
             android:label="@string/title_activity_russiantwists"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="scissorjacks.xml.scissorjacks"
+            android:label="@string/title_activity_scissorjacks"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
