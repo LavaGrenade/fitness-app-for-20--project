@@ -33,4 +33,6 @@
     <string name="title_activity_shoulders">shoulders</string>
     <string name="title_activity_situps">situps</string>
     <string name="title_activity_squats">squats</string>
+    <string name="title_activity_stepups">stepups</string>
+    <string name="title_activity_supermans">supermans</string>
 </resources>

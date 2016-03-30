@@ -143,6 +143,14 @@
         <activity
             android:name="squats.xml.squats"
             android:label="@string/title_activity_squats"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="stepups.xml.stepups"
+            android:label="@string/title_activity_stepups"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="supermans.xml.supermans"
+            android:label="@string/title_activity_supermans"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
