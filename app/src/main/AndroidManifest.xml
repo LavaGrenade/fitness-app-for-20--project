@@ -131,6 +131,10 @@
         <activity
             android:name="sealjacks.xml.sealjacks"
             android:label="@string/title_activity_sealjacks"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="shoulder.xml.shoulders"
+            android:label="@string/title_activity_shoulders"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
