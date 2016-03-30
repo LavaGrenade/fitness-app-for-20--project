@@ -163,6 +163,10 @@
         <activity
             android:name="triceppushups.xml.triceppushups"
             android:label="@string/title_activity_triceppushups"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="triceps.xml.triceps"
+            android:label="@string/title_activity_triceps"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
