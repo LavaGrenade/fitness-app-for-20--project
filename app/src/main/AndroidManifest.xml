@@ -139,6 +139,10 @@
         <activity
             android:name="situps.xml.situps"
             android:label="@string/title_activity_situps"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="squats.xml.squats"
+            android:label="@string/title_activity_squats"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
