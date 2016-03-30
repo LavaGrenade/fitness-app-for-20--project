@@ -41,4 +41,6 @@
     <string name="title_activity_triceps">triceps</string>
     <string name="title_activity_wallsits">wallsits</string>
     <string name="title_activity_widearmedpushups">widearmedpushups</string>
+    <string name="title_activity_wideleggedsquats">wideleggedsquats</string>
+    <string name="title_activity_windmills">windmills</string>
 </resources>

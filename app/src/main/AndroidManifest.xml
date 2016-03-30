@@ -175,6 +175,14 @@
         <activity
             android:name="widearmedpushups.xml.widearmedpushups"
             android:label="@string/title_activity_widearmedpushups"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="wideleggedsquats.xml.wideleggedsquats"
+            android:label="@string/title_activity_wideleggedsquats"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="windmills.xml.windmills"
+            android:label="@string/title_activity_windmills"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
