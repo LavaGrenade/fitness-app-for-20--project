@@ -127,6 +127,10 @@
         <activity
             android:name="scissorjacks.xml.scissorjacks"
             android:label="@string/title_activity_scissorjacks"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="sealjacks.xml.sealjacks"
+            android:label="@string/title_activity_sealjacks"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
