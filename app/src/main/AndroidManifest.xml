@@ -135,6 +135,10 @@
         <activity
             android:name="shoulder.xml.shoulders"
             android:label="@string/title_activity_shoulders"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="situps.xml.situps"
+            android:label="@string/title_activity_situps"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
