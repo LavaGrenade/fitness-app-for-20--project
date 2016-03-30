@@ -115,6 +115,10 @@
         <activity
             android:name="quads.xml.quads"
             android:label="@string/title_activity_quads"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="regularpushups.xml.regularpushups"
+            android:label="@string/title_activity_regularpushups"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
