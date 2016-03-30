@@ -183,6 +183,10 @@
         <activity
             android:name="windmills.xml.windmills"
             android:label="@string/title_activity_windmills"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="workouts.xml.workouts"
+            android:label="@string/title_activity_workouts"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
