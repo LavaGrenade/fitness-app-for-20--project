@@ -35,4 +35,5 @@
     <string name="title_activity_squats">squats</string>
     <string name="title_activity_stepups">stepups</string>
     <string name="title_activity_supermans">supermans</string>
+    <string name="title_activity_times">times</string>
 </resources>

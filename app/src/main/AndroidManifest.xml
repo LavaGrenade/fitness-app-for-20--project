@@ -151,6 +151,10 @@
         <activity
             android:name="supermans.xml.supermans"
             android:label="@string/title_activity_supermans"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="times.xml.times"
+            android:label="@string/title_activity_times"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
