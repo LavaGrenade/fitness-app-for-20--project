@@ -171,6 +171,10 @@
         <activity
             android:name="wallsits.xml.wallsits"
             android:label="@string/title_activity_wallsits"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="widearmedpushups.xml.widearmedpushups"
+            android:label="@string/title_activity_widearmedpushups"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
