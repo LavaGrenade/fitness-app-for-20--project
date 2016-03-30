@@ -103,6 +103,10 @@
         <activity
             android:name="planks.xml.planks"
             android:label="@string/title_activity_planks"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pushups.xml.pushups"
+            android:label="@string/title_activity_pushups"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
