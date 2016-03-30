@@ -79,6 +79,10 @@
         <activity
             android:name="jumpkneetucks.xml.jumpkneetucks"
             android:label="@string/title_activity_jumpkneetucks"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="jumpsquats.xml.jumpsquats"
+            android:label="@string/title_activity_jumpsquats"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
