@@ -99,6 +99,10 @@
         <activity
             android:name="pectorals.xml.pectorals"
             android:label="@string/title_activity_pectorals"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="planks.xml.planks"
+            android:label="@string/title_activity_planks"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
