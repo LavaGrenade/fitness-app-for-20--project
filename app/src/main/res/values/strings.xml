@@ -24,4 +24,6 @@
     <string name="title_activity_pectorals">pectorals</string>
     <string name="title_activity_planks">planks</string>
     <string name="title_activity_pushups">pushups</string>
+    <string name="title_activity_prisonsquats">prisonsquats</string>
+    <string name="title_activity_quads">quads</string>
 </resources>

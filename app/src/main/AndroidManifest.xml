@@ -107,6 +107,14 @@
         <activity
             android:name="pushups.xml.pushups"
             android:label="@string/title_activity_pushups"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="prisonsquats.xml.prisonsquats"
+            android:label="@string/title_activity_prisonsquats"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="quads.xml.quads"
+            android:label="@string/title_activity_quads"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
