@@ -83,6 +83,10 @@
         <activity
             android:name="jumpsquats.xml.jumpsquats"
             android:label="@string/title_activity_jumpsquats"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="layzboy.xml.layzboy"
+            android:label="@string/title_activity_layzboy"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
