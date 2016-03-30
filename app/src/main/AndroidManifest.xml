@@ -71,6 +71,10 @@
         <activity
             android:name="hyperextensions.xml.hyperextensions"
             android:label="@string/title_activity_hyperextensions"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="jumpingjacks.xml.jumpingjacks"
+            android:label="@string/title_activity_jumpingjacks"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
