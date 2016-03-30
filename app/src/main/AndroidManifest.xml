@@ -91,6 +91,10 @@
         <activity
             android:name="lunges.xml.lunges"
             android:label="@string/title_activity_lunges"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="oneleggedsquats.xml.oneleggedsquats"
+            android:label="@string/title_activity_oneleggedsquats"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
