@@ -87,6 +87,10 @@
         <activity
             android:name="layzboy.xml.layzboy"
             android:label="@string/title_activity_layzboy"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="lunges.xml.lunges"
+            android:label="@string/title_activity_lunges"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
