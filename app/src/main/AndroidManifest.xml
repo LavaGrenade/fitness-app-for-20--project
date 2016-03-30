@@ -119,6 +119,10 @@
         <activity
             android:name="regularpushups.xml.regularpushups"
             android:label="@string/title_activity_regularpushups"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="russiantwists.xml.russiantwists"
+            android:label="@string/title_activity_russiantwists"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
