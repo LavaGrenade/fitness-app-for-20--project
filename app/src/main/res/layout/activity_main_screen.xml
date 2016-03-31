@@ -37,7 +37,7 @@
         android:gravity="center"
         android:background="#76FF03"
         android:layout_margin="8dp"
-        android:onClick=""/>
+        android:onClick="openWorkoutsActivity"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -47,5 +47,5 @@
         android:gravity="center"
         android:background="#76FF03"
         android:layout_margin="8dp"
-        android:onClick=""/>
+        android:onClick="openTimesActivity"/>
 </LinearLayout>
