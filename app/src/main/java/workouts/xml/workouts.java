@@ -11,7 +11,7 @@ import android.view.View;
 import tylersand.workoutapp.MainScreen;
 import tylersand.workoutapp.R;
 
-public class workouts extends AppCompatActivity {
+public class Workouts extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

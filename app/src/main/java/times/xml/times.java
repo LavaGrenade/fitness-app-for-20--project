@@ -9,7 +9,7 @@ import android.view.View;
 
 import tylersand.workoutapp.R;
 
-public class times extends AppCompatActivity {
+public class Times extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

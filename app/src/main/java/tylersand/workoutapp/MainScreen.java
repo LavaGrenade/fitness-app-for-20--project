@@ -5,6 +5,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
+import times.xml.Times;
+import workouts.xml.Workouts;
+
 //
 public class MainScreen extends AppCompatActivity {
 
