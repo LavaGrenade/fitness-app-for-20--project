@@ -18,7 +18,7 @@ public class MainScreen extends AppCompatActivity {
     public void openWorkoutsActivity(View view) {
       // Do something in response to button
 
-        Intent intent = new Intent(this, workouts.class);
+        Intent intent = new Intent(this, Workouts.class);
 
         startActivity(intent);
 
@@ -26,10 +26,11 @@ public class MainScreen extends AppCompatActivity {
     public void openTimesActivity(View view) {
         // Do something in response to button
 
-        Intent intent = new Intent(this, times.class);
+        Intent intent = new Intent(this, Times.class);
 
         startActivity(intent);
 
     }
+
 }
 
