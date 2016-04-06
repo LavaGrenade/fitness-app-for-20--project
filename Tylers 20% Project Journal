@@ -68,3 +68,13 @@ and actually start working on the app structure at sometime within the next one 
 that I am starting to understand how to use android studio but am frequently frustrated trying to open the API.
 Once we do this we will start to create the actual design aspects and the move on from there.  This is my journal
 entry for this week and now is over 150 words.
+
+Journal Entry 7:3/18/2016
+This week on our 20% project what we did was, Austin and I continued to work on our project, Austin has recently learned
+how to add the on click commands to the xml files.  I have completed most if not all the xml files and we have the 
+layout almost completly done.  The on click commands can be done in two different ways and Austin and I are currently 
+debating on which style to use.  I hope to use the on click command that runs through the xml coding and runs a method in 
+a seperate activity.  The activities still need to be made and coded in order to run the appropriate xml files.  Each activity 
+will need to be linked to an xml file and I plan on learning that next week. This concludes my development journal for this week 
+and it should now be equal to or greater than the 150 word requirement given by Schreiber.
+
