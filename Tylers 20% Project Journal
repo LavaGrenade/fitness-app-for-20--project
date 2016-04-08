@@ -86,3 +86,10 @@ with some of the files but we hope to figure that out before monday.  Over the w
 the class names are lower cased and I need to go through and capitalize every one of them.  That sounds like a pain but it needs to be 
 done.  This shall conclude my development journal for this week and it should now finally be equal to the one hundred fifty word 
 constraint.
+
+Journal Entry 9:4/8/2016
+This week and the past weeks on our 20% project everything again turned to crap.  The project has become FUBAR and we plan on taking
+the salvagable stuff and transferring it to a new project.  We are directly copying the xml files over and most of the java files
+also.  Some stuff is just going to have to be redone, such as all of the onclick methods.  Austin will be redoing all of the on click
+methods for each button and I will be re putting in all of the xml files.  Austin will make the java files and reconnect the to the
+xml files.  This shall conclude my development journal for this week or the week of April the third.
